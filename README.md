@@ -6,4 +6,4 @@ Paste a plugin URL into the Plugins page of Vendetta, following a basic format o
 
 https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`/`PLUGIN_NAME`
 
-https://github.com/Opti-mod/plugin-template/tree/master/dist/template 
+https://raw.githubusercontent.com/Opti-mod/plugin-template/tree/master/dist/template 
