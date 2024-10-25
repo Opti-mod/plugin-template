@@ -10,7 +10,6 @@
     "main": "src/index.ts",
     "vendetta": {
         "icon": "ic_badge_staff",
-        "version": "v1.0.0",
-        "opti": true
+        "version": "v1.0.0"
     }
 }
